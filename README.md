@@ -8,7 +8,7 @@
 <body>
 	<div class="wrap">
 		<div class="header">			
-			<h1>Malas Ngoding</h1>
+			<h1>YUK BELAJAR CODING YUK</h1>
 			<p>Tutorial belajar membuat layout website sederhana</p>
 		</div>
 		<div class="menu">
